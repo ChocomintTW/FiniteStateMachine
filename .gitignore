@@ -1,0 +1,6 @@
+/__pycache__/
+/fsm/__pycache__/
+/antare-utils/
+/verilog/
+assign-test.ipynb
+state-test.ipynb
